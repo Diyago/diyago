@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Insaf Ashrapov, Sernior Data Scientist, Sberbank 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/iashrapov?style=social)
+[![Linkedin: andlukyane](https://img.shields.io/badge/-Insaf%20Ashrapov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iashrapov/)](https://www.linkedin.com/in/iashrapov/)
+[![Medium Badge](https://img.shields.io/badge/-insaf-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@insafashrapov)](https://medium.com/@insafashrapov)
+[![Kaggle Badge](https://img.shields.io/badge/-insaf-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/insaff)](https://www.kaggle.com/insaff)
+![Profile views](https://gpvc.arturio.dev/diyago)
 
-<!--
-**Diyago/diyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![kaggle](https://github.com/Diyago/Diyago.github.io/blob/master/images/kaggle_rank.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also I have a [portfolio](https://diyago.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects, articles, etc.
+
+### My Github stats
+[![Insaf's github stats](https://github-readme-stats.vercel.app/api?username=diyago)](https://github.com/diyago/github-readme-stats)
