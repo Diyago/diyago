@@ -1,4 +1,4 @@
-### Hello, I'm Insaf Ashrapov, Senior Data Scientist, Sberbank 👋
+### Hello, I'm Insaf Ashrapov, Lead Data Scientist, Sberbank 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/iashrapov?style=social)
 [![Linkedin: andlukyane](https://img.shields.io/badge/-Insaf%20Ashrapov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iashrapov/)](https://www.linkedin.com/in/iashrapov/)
 [![Medium Badge](https://img.shields.io/badge/-insaf-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@insafashrapov)](https://medium.com/@insafashrapov)
