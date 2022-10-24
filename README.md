@@ -7,7 +7,7 @@
 
 Top rank on kaggle is 417.
 
-Also I have a [portfolio](https://diyago.github.io/) listing some of my projects, which include Kaggle kernels, pet-projects, articles, etc.
+My [portfolio](https://diyago.github.io/) with some of my projects, which include Kaggle kernels, pet-projects, articles, etc.
 
 ### My Github stats
 [![Insaf's github stats](https://github-readme-stats.vercel.app/api?username=diyago)](https://github.com/diyago/github-readme-stats)
