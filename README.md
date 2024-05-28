@@ -6,8 +6,7 @@
 ![](https://komarev.com/ghpvc/?usernamediyago&color=36b812)<br>
 ![](https://img.shields.io/github/followers/diyago?style=social)<br>
 ![](https://img.shields.io/github/stars/diyago?style=social)<br>
-![](https://komarev.com/ghpvc/?username=diyago&color=dc143c)
-
+![](https://komarev.com/ghpvc/?username=diyago&base=30000)
 
 Top rank on kaggle is 417.
 
