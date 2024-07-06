@@ -8,6 +8,9 @@
 ![](https://img.shields.io/github/stars/diyago?style=social)<br>
 ![](https://komarev.com/ghpvc/?username=diyago&base=30000)
 
+https://t.me/ai_tablet telegram channel (ru)
+
+
 Top rank on kaggle is 417.
 
 My [portfolio](https://diyago.github.io/) with some of my projects, which include Kaggle kernels, pet-projects, articles, etc.
